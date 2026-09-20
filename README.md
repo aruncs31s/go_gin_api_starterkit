@@ -7,7 +7,7 @@
 ### Installation
 1. Clone the repository:
 ```bash
-git clone github.com/aruncs/go_gin_api_starterkit.git
+git clone https://github.com/aruncs31s/go_gin_api_starterkit.git
 ```
 2. Navigate to the project directory:
 ```bash
